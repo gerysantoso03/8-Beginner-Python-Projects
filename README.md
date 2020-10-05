@@ -1,4 +1,4 @@
-# 10 Beginner Python Projects
+# 8 Beginner Python Projects
 
 ### 1. Password Protect PDF
 
