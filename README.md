@@ -4,7 +4,7 @@
 
 This is an appkication made with python to protect your pdf file with your own password
 
-** How to use **
+**How to use**
 
 - pip install pypdf2
 - py pdf-protection.py
@@ -14,12 +14,12 @@ This is an appkication made with python to protect your pdf file with your own p
 
 Python program to set custom windows notification with any duration we want
 
-** How to use **
+**How to use**
 
 - pip install win10toast
 - py window-notify.py
 
-** How the program work **
+**How the program work**
 
 - We'll set the custom heading | sub-heading | icon | and duration
 - We'll notification time or hourly reminder or custom alarm
@@ -29,7 +29,7 @@ Python program to set custom windows notification with any duration we want
 
 Python program to merger all pdf file in the current directory of our program and protect them witt our own password
 
-** How to use **
+**How to use**
 
 - pip install pypdf2
 - choose pdf files you want to merge
@@ -41,14 +41,14 @@ Python program to merger all pdf file in the current directory of our program an
 
 Python program to record voice using our mic and extract it into voice format file .wav
 
-** How to use **
+**How to use**
 
 - pip install scipy
 - pip install sounddevice
 - py voice-record.py
 - open your .wav file
 
-** How the program work **
+**How the program work**
 
 - Run the source code
 - Your mic will start recording your voice
@@ -59,7 +59,7 @@ Python program to record voice using our mic and extract it into voice format fi
 
 Python program to generate random password consists of number, symbol, letter with tkinter GUI
 
-** How to use **
+**How to use**
 
 - pip install tkinter
 - py random-password.py
@@ -69,13 +69,13 @@ Python program to generate random password consists of number, symbol, letter wi
 
 Python program to convert .mp4 file into .mp3 file
 
-** How to use **
+**How to use**
 
 - pip install moviepy
 - py mp4-converter.py
 - open your mp3 file
 
-** How the program work **
+**How the program work**
 
 - MP4 video will taken as input
 - Moviepy will detect audio from the input video
@@ -85,13 +85,13 @@ Python program to convert .mp4 file into .mp3 file
 
 Python program to shorten input link
 
-** How to use **
+**How to use**
 
 - pip install pyshorteners
 - py link-shorten.py
 - input your link that you want shorten
 
-** How the program work **
+**How the program work**
 
 - Give link as input
 - Program will use tinyurl server to shortening input link
@@ -101,13 +101,13 @@ Python program to shorten input link
 
 Python program to modify terminal text color and fonts
 
-** How to use **
+**How to use**
 
 - pip install pyfiglet
 - pip install colorama
 - py terminal-trick.py
 
-** How the program work **
+**How the program work**
 
 - Choose your text & background-color
 - Choose alphabet | number | symbol - style
